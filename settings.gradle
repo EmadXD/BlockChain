@@ -1,0 +1,3 @@
+include ':blockchain'
+include ':app'
+rootProject.name = "BlockChainLibrary"
